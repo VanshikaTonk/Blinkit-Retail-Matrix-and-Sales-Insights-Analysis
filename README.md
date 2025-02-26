@@ -72,8 +72,11 @@ Predictive Analytics and Forecasting – To anticipate future sales trends based
 
 Customer Segmentation Analysis – To refine marketing strategies by understanding different consumer demographics.
 
+📌 Explore the Dashboard: [Click Here](DASHBOARD_LINK.md)
+
 K). Contributor
 
 Vanshika Tonk BE  CSE (AIML), Chandigarh University |Data  Science Enthusiast | Machine Learning Developer
 
 📧 [vanshikatonk012@gmail.com] 🔗 [https://www.linkedin.com/in/vanshika-tonk-822397220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
