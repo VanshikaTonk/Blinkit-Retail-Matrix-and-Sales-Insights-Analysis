@@ -1,4 +1,10 @@
 # 🚀 Blinkit Sales Analytics Dashboard
+🚀 <span style="color:blue;">Blinkit Sales Dashboard</span>
+
+Click below to view the dashboard:
+
+🔗[<span style="color:green;">Click Here</span>](https://public.tableau.com/views/VanshikasblinkitDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 Welcome to the **Blinkit Sales Analytics Dashboard**! This dashboard provides key insights into sales trends, outlet performance, and customer preferences.
 
